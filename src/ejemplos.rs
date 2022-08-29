@@ -85,3 +85,59 @@
 // }
 
 
+
+// ARRAYS & FOR
+
+// fn main() {
+
+//     let mut nombres : Vec<String> = Vec::new();
+
+//     for i in 0..3 {
+//         println!("Por favor introduce un nombre: ");
+//         let mut nombre = String::new();
+//         std::io::stdin().read_line(&mut nombre).unwrap();
+    
+//         nombres.push(nombre);
+//     } 
+
+//     for nombre in nombres {
+//         println!("El nombre es: {}", nombre);
+//     }
+
+//     let hola = ["H", "O", "L", "A"];
+
+//     println!("{}", hola[0]);
+//     println!("{}", hola[1]);
+//     println!("{}", hola[2]);
+//     println!("{}", hola[3]);
+
+//     // println!("{}", hola[4]);
+
+// }
+
+
+
+//FUNCIONES
+
+// fn sumar_uno(numero_a_sumar: i32) -> i32 {
+//     let numero_final = numero_a_sumar + 1;
+//     println!("{}", numero_final);
+
+
+//     return numero_final;
+// }
+
+
+
+// fn main() {
+//     println!("Hola Platzi");
+
+//     let diez_mas_uno = sumar_uno(10);
+//     sumar_uno(diez_mas_uno);
+//     sumar_uno(12);
+//     sumar_uno(13);
+//     sumar_uno(14);
+
+
+// }
+

@@ -52,4 +52,11 @@ fn main() {
 
     //Mostrar resultados
     println!("Resultados: {}", expresion);
+
+
+//copiar este codigo directamente en tu editor 
+//de codigo y ejecutar el comando "cargo run"
+
+
 }
+
